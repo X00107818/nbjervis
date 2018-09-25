@@ -1,0 +1,56 @@
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\NBBootstrapSite.dll.config
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\NBBootstrapSite.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\NBBootstrapSite.pdb
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Antlr3.Runtime.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.Core.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\EntityFramework.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\EntityFramework.SqlServer.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\System.Web.Optimization.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\System.Web.Providers.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\WebGrease.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\EntityFramework.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\EntityFramework.SqlServer.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\System.Web.Providers.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.Core.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\obj\Debug\NBBootstrapSite.csprojResolveAssemblyReference.cache
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\obj\Debug\NBBootstrapSite.dll
+C:\Users\AGMColm\OneDrive\SoftwareDev\Visual Studio Projects 2013\NBNailbar\NBBootstrapSite\obj\Debug\NBBootstrapSite.pdb
+G:\student\webapps\NBBootstrapSite1\bin\NBBootstrapSite.dll.config
+G:\student\webapps\NBBootstrapSite1\bin\NBBootstrapSite.dll
+G:\student\webapps\NBBootstrapSite1\bin\NBBootstrapSite.pdb
+G:\student\webapps\NBBootstrapSite1\bin\EntityFramework.xml
+G:\student\webapps\NBBootstrapSite1\bin\EntityFramework.SqlServer.xml
+G:\student\webapps\NBBootstrapSite1\bin\System.Web.Providers.xml
+G:\student\webapps\NBBootstrapSite1\bin\DotNetOpenAuth.Core.xml
+G:\student\webapps\NBBootstrapSite1\bin\DotNetOpenAuth.OAuth.xml
+G:\student\webapps\NBBootstrapSite1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\student\webapps\NBBootstrapSite1\bin\DotNetOpenAuth.OpenId.xml
+G:\student\webapps\NBBootstrapSite1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\student\webapps\NBBootstrapSite1\bin\DotNetOpenAuth.AspNet.xml
+G:\student\webapps\NBBootstrapSite1\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+G:\student\webapps\NBBootstrapSite1\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\student\webapps\NBBootstrapSite1\obj\Debug\NBBootstrapSite.csprojResolveAssemblyReference.cache
+G:\student\webapps\NBBootstrapSite1\obj\Debug\NBBootstrapSite.csproj.CoreCompileInputs.cache
+G:\student\webapps\NBBootstrapSite1\obj\Debug\NBBootstrapSite.csproj.CopyComplete
+G:\student\webapps\NBBootstrapSite1\obj\Debug\NBBootstrapSite.dll
+G:\student\webapps\NBBootstrapSite1\obj\Debug\NBBootstrapSite.pdb
